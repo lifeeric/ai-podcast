@@ -1,0 +1,5 @@
+{
+  "name": "Blogcast AI",
+  "description": "An application that transforms blog posts into realistic, natural-sounding podcasts using AI. Simply paste your blog text, choose a voice, and listen to your content come to life.",
+  "requestFramePermissions": []
+}
